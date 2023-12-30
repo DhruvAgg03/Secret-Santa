@@ -12,7 +12,7 @@ You will need to do the following things:
 3. You will be prompted for names and emails of participants. Enter them, and once done, type 'quit'
 4. Any time you are prompted with Continue? type 1
 5. Once all participants receive 2 emails i.e. Invites! and 'Ho Ho Ho...', all emails will be auto-cleared from host to ensure anonimity
-6. Once paritcipants send their "gift-emails", continue to next step. Program will terminate.
+6. Once participants send their "gift-emails", continue to next step. Program will terminate.
 
 ## Updates
 1. Addition of GUI
